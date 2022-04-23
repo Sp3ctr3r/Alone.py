@@ -11,8 +11,8 @@ print("Coder BY : Mr.Ghost")
 print("*"*20,"\n")
 time.sleep(2)
 
-Kullanıcı = ("Mesut")
-şifre = ("alone")
+Kullanıcı = ("kullanıcı adı")
+şifre = ("şifre")
 sayılar = [1,2,3,4]
 
 
